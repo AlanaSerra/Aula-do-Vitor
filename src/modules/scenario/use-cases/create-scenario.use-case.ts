@@ -1,5 +1,5 @@
 import { Injectable, Logger } from "@nestjs/common";
-import { CreateScenarioRepository } from "../repository/create-scenario.repository"
+import { CreateScenarioRepository } from "../repository";
 import { CreateScenarioDto } from "../dto/create-scenario.dto";
 
 
